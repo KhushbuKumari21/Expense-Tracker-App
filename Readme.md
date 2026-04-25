@@ -1,4 +1,4 @@
-📊 Expense Tracker App
+# 📊 Expense Tracker App
 A full-stack Expense Tracker Application built using React Native (Frontend) and Node.js + Express + MongoDB (Backend) with JWT Authentication.
 It allows users to securely register, login, and manage daily expenses with category-wise analytics.
 
