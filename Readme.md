@@ -1,7 +1,6 @@
 📊 Expense Tracker App
-
-A full-stack Expense Tracker Application built using Node.js, Express, MongoDB, and JWT Authentication.
-It allows users to register, login, and manage their daily expenses with category-wise analytics.
+A full-stack Expense Tracker Application built using React Native (Frontend) and Node.js + Express + MongoDB (Backend) with JWT Authentication.
+It allows users to securely register, login, and manage daily expenses with category-wise analytics.
 
 # 🚀 Features
 ## 🔐 Authentication
@@ -24,16 +23,17 @@ It allows users to register, login, and manage their daily expenses with categor
    ##  Backend:-
     Node.js
     Express.js
-
     MongoDB (Mongoose)
     JWT (Authentication)
     bcryptjs (Password hashing)
     cors
 
    ## Frontend :-
-   React Native
-   Axios
-   CSS
+    React Native
+    Expo
+    Axios
+    React Navigation
+    CSS
 
    # 📁 Project Structure
    D:\Today Project
