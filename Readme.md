@@ -3,25 +3,25 @@
 A full-stack Expense Tracker Application built using Node.js, Express, MongoDB, and JWT Authentication.
 It allows users to register, login, and manage their daily expenses with category-wise analytics.
 
-🚀 Features
-🔐 Authentication
+# 🚀 Features
+## 🔐 Authentication
     User Registration
     User Login
     JWT Token Authentication
 
-💰 Expense Management
+## 💰 Expense Management
     Add Expense (amount, category, date, note)
     Edit Expense
     Delete Expense
     Get All Expenses (user-specific)
 
-📊 Dashboard
+## 📊 Dashboard
     Category-wise expense summary
     Total spending per category
 
 
-🛠️ Tech Stack
-    Backend:-
+# 🛠️ Tech Stack
+   ##  Backend:-
     Node.js
     Express.js
 
@@ -30,15 +30,15 @@ It allows users to register, login, and manage their daily expenses with categor
     bcryptjs (Password hashing)
     cors
 
-   Frontend :-
+   ## Frontend :-
    React Native
    Axios
    CSS
 
-   📁 Project Structure
+   # 📁 Project Structure
    D:\Today Project
 │
-├── backend
+├── **backend**
 │   ├── models
 │   │   ├── User.js
 │   │   └── Expense.js
@@ -53,7 +53,7 @@ It allows users to register, login, and manage their daily expenses with categor
 │   ├── .env
 │   ├── server.js
 │
-├── frontend
+├──**frontend**
 │   ├── screens
 │   │   ├── Login.js
 │   │   ├── Register.js
@@ -62,7 +62,7 @@ It allows users to register, login, and manage their daily expenses with categor
 │   │
 │   ├── App.js
 │
-└── Readme.md
+└── **Readme.md**
 
 # ⚙️ Installation
 ## 1️⃣ Clone project
