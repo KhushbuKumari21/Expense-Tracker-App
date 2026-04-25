@@ -64,25 +64,24 @@ It allows users to register, login, and manage their daily expenses with categor
 │
 └── Readme.md
 
-⚙️ Installation
-1️⃣ Clone project
-git clone <your-repo-link>
-cd backend
+# ⚙️ Installation
+## 1️⃣ Clone project
+    git clone <your-repo-link>
+    cd backend
+## 2️⃣ Install dependencies
+    npm install
 
-2️⃣ Install dependencies
-npm install
-
-3️⃣ Setup .env
+## 3️⃣ Setup .env
 Create .env file:
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
+    MONGO_URI=your_mongodb_connection_string
+    JWT_SECRET=your_secret_key
 
-4️⃣ Run server
-node server.js
+## 4️⃣ Run server
+   node server.js
 
 Server will run on:
 
-http://localhost:5000
+**http://localhost:5000**
 
 
 📡 Backend APIs
@@ -101,21 +100,20 @@ GET /api/expenses/summary   → Category-wise total expense
 
 
 
-📱 Frontend Setup (React Native - Expo)
-1. Create Project
-npx create-expo-app frontend
+# 📱 Frontend Setup (React Native - Expo)
+## 1. Create Project
+    npx create-expo-app frontend
 
-2. Go to project folder
-cd frontend
-
-3. Install dependencies
+## 2. Go to project folder
+   cd frontend
+## 3. Install dependencies
 npm install axios
 Navigation setup
 npm install @react-navigation/native
 npm install @react-navigation/native-stack
 npx expo install react-native-screens react-native-safe-area-context
 
-4. Run app
+## 4. Run app
 npx expo start
 
 Then scan QR code in Expo Go app 📱
