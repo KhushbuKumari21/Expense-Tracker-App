@@ -21,7 +21,7 @@ It allows users to register, login, and manage their daily expenses with categor
 
 
 🛠️ Tech Stack
-    Backend
+    Backend:-
     Node.js
     Express.js
 
@@ -30,7 +30,7 @@ It allows users to register, login, and manage their daily expenses with categor
     bcryptjs (Password hashing)
     cors
 
-   Frontend (Optional)
+   Frontend :-
    React Native
    Axios
    CSS
